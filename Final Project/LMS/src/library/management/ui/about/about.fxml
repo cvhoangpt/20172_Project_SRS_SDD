@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import com.jfoenix.controls.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXPasswordField?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="543.0" prefWidth="382.0" stylesheets="@../../../../resources/common.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="library.management.ui.login.LoginController">
+   <children>
+      <ImageView fitHeight="307.0" fitWidth="285.0" layoutX="49.0" layoutY="61.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@art.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="19.0" layoutY="364.0" prefHeight="32.0" prefWidth="349.0" text="Project Management Pro Limited Edition Deluxe">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Label>
+      <Label layoutX="82.0" layoutY="437.0" prefHeight="17.0" prefWidth="183.0" text="Nguyễn Thanh Hoà">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="82.0" layoutY="412.0" prefHeight="18.0" prefWidth="218.0" text="By Group 7 VUWIT15 of HUST" />
+      <Label layoutX="82.0" layoutY="455.0" prefHeight="18.0" prefWidth="166.0" text="Cai Việt Hoàng" />
+      <Label layoutX="82.0" layoutY="473.0" prefHeight="18.0" prefWidth="151.0" text="Nguyễn Minh Hoàng" />
+      <Label layoutX="82.0" layoutY="491.0" prefHeight="18.0" prefWidth="177.0" text="Đinh Nho Hùng" />
+   </children>
+</AnchorPane>

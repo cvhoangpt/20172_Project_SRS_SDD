@@ -1,0 +1,1 @@
+{"nDaysWithoutFine":4,"finePerDay":150.0,"username":"steam","password":"bf2903b55e59523c3f2722f3b7538bb9527249ee"}
